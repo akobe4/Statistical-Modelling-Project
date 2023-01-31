@@ -1,0 +1,974 @@
+,locName,catName,distance
+0,Merchant Square,Bar,43
+1,The Clutha Bar,Beer Bar,496
+2,Max's Bar and Grill,Cocktail Bar,432
+3,The Z Hotel Glasgow,Hotel,450
+4,13th Note,Night Club,247
+5,Anchor Line,Cocktail Bar,529
+6,Sub Club,Night Club,708
+7,The Citizen Bar & Dining Rooms,Cocktail Bar,552
+8,The Pot Still,Whisky Bar,933
+9,Saint Luke’s,Music Venue,776
+10,Hillhead Bookclub,Cocktail Bar,186
+11,The Belle,Bar,251
+12,Ubiquitous Chip,Bar,480
+13,Inn Deep,Beer Bar,636
+14,Strathmore Bar,Pub,755
+15,The Crafty Pig,Beer Garden,481
+16,Tennents Bar,Pub,607
+17,Innis & Gunn Beer Kitchen - Ashton Lane,Pub,509
+18,Brel,Beer Bar,500
+19,Vodka Wodka,Bar,488
+20,Nice N Sleazy,Night Club,227
+21,Kimpton Blythswood Square Hotel,Hotel,617
+22,The Butterfly & the Pig,Bar,673
+23,The Pot Still,Whisky Bar,898
+24,citizenM Hotel Glasgow,Hotel,956
+25,Lebowskis,Cocktail Bar,610
+26,Strip Joint,Bar,520
+27,Hampton by Hilton Glasgow Central,Hotel,717
+28,The Smoking Fox,Bar,926
+29,Stereo,Wine Bar,962
+30,The Z Hotel Glasgow,Hotel,500
+31,Max's Bar and Grill,Cocktail Bar,789
+32,Anchor Line,Cocktail Bar,735
+33,The Citizen Bar & Dining Rooms,Cocktail Bar,758
+34,The Ark Glasgow,Bar,468
+35,Merchant Square,Bar,562
+36,Shilling Brewing Co,Bar,883
+37,13th Note,Night Club,849
+38,The Raven,Bar,934
+39,Republic Bier Halle,Beer Garden,899
+40,The Laurieston Bar,Pub,38
+41,The Clutha Bar,Beer Bar,592
+42,Sub Club,Night Club,607
+43,Hotel Motel One,Lodging,656
+44,Max's Bar and Grill,Cocktail Bar,885
+45,The Smoking Fox,Bar,868
+46,Stereo,Wine Bar,957
+47,13th Note,Night Club,848
+48,Republic Bier Halle,Beer Garden,917
+49,Rhoderick Dhu,Beer Bar,874
+50,Max's Bar and Grill,Cocktail Bar,247
+51,The Clutha Bar,Beer Bar,341
+52,The Z Hotel Glasgow,Hotel,474
+53,Anchor Line,Cocktail Bar,410
+54,13th Note,Night Club,257
+55,The Citizen Bar & Dining Rooms,Cocktail Bar,422
+56,The Pot Still,Whisky Bar,769
+57,Merchant Square,Bar,325
+58,Stereo,Wine Bar,630
+59,Travelodge,Hotel,245
+60,citizenM Hotel Glasgow,Hotel,326
+61,The Pot Still,Whisky Bar,516
+62,The Z Hotel Glasgow,Hotel,476
+63,The Butterfly & the Pig,Bar,626
+64,The Raven,Bar,381
+65,Kimpton Blythswood Square Hotel,Hotel,730
+66,Anchor Line,Cocktail Bar,534
+67,Shilling Brewing Co,Bar,462
+68,The Citizen Bar & Dining Rooms,Cocktail Bar,534
+69,Max's Bar and Grill,Cocktail Bar,705
+70,Turnstyles,Bar,338
+71,The Real McCoy,Pub,419
+72,Kerrydale Bar,Sports Bar,420
+73,The Oak Bar,Bar,572
+74,Five Ways,Arts and Entertainment,866
+75,Celtic FC Supporters Association Social Club,Sports Bar,892
+76,The the Louden Tavern,Sports Bar,981
+77,Crossreach,Hostel,184
+78,Celtic Catering,Hotel,335
+79,Heathbank Guest House,Hotel,378
+80,"WEST Brewery, Bar & Restaurant",Bar,491
+81,Saint Luke’s,Music Venue,807
+82,The Seven Ways,Bar,42
+83,The Crimson Star,Pub,123
+84,The Scottsman Pub,Pub,254
+85,The the Louden Tavern,Sports Bar,368
+86,The Calton Bar,Bar,557
+87,The Wee Mans Bar,Sports Bar,622
+88,Bellgrove Hotel,Hostel,692
+89,Squirrel Bar,Concert Hall,820
+90,The Clutha Bar,Beer Bar,454
+91,"WEST Brewery, Bar & Restaurant",Bar,890
+92,13th Note,Night Club,618
+93,Saint Luke’s,Music Venue,960
+94,Ibis Styles Hotel,Hotel,991
+95,The Laurieston Bar,Pub,713
+96,Merchant Square,Bar,898
+97,The Spiritualist,Wine Bar,955
+98,Guy's Restaurant & Bar,Bar,820
+99,Hootenanny,Pub,831
+100,Radisson RED Glasgow,Lodging,559
+101,The SSE Hydro,Concert Hall,777
+102,Village Hotel Glasgow,Hotel,727
+103,"Crowne Plaza Glasgow, an IHG Hotel",Lodging,957
+104,Premier Inn Glasgow Pacific Quay hotel,Lodging,783
+105,The Old Toll Bar,Wine Bar,29
+106,Hilton Garden Inn Glasgow City Centre,Hotel,503
+107,Quayside,Pub,189
+108,LA Bartenders,Cocktail Bar,252
+109,Hydro SECC Apartment,Residential Building,414
+110,McMillan's Bar & Chop House,Bar,715
+111,The butterfly and the pig,Arts and Entertainment,349
+112,Linen 1906,Wine Bar,209
+113,Church on the Hill,Pub,704
+114,The Granary,Pub,138
+115,James Tassie,Bar,25
+116,Gulp Bar,Bar,35
+117,The Ivory Hotel,Hotel,570
+118,Paddy Losty’s,Pub,87
+119,Curious Liquids,Wine Bar,95
+120,Burrell,Bar,14
+121,Old Stag Inn,Pub,217
+122,Linen 1906,Wine Bar,997
+123,Quaich,Pub,547
+124,Celtic Pub,Beer Garden,554
+125,The Granary,Pub,929
+126,Paddy Losty’s,Pub,785
+127,James Tassie,Bar,820
+128,Gulp Bar,Bar,809
+129,Curious Liquids,Wine Bar,895
+130,Redmond's,Pub,977
+131,The Duchess of Duke Street,Pub,740
+132,La Cala Bar,Pub,245
+133,The Bristol Bar,Dive Bar,451
+134,Duke Bar,Pub,495
+135,Louden Tavern Limited,Pub,555
+136,The Alexandra,Pub,561
+137,The Crown Creighton,Bar,583
+138,Craigpark Masters,Pool Hall,682
+139,The Snug,Pub,689
+140,Redmond's,Pub,614
+141,The Duchess of Duke Street,Pub,323
+142,Louden Tavern Limited,Pub,58
+143,The Crown Creighton,Bar,65
+144,The Alexandra,Pub,76
+145,Duke Bar,Pub,94
+146,The Bristol Bar,Dive Bar,180
+147,The Snug,Pub,239
+148,The Palais Bar,Pub,312
+149,Seton Guest House,Bed and Breakfast,592
+150,Radisson RED Glasgow,Lodging,658
+151,The SSE Hydro,Concert Hall,903
+152,Village Hotel Glasgow,Hotel,966
+153,The Laurieston Bar,Pub,1009
+154,Oasis Lounge,Lounge,774
+155,Premier Inn Glasgow Pacific Quay hotel,Lodging,992
+156,Hilton Garden Inn Glasgow City Centre,Hotel,628
+157,Quayside,Pub,276
+158,The Old Toll Bar,Wine Bar,279
+159,Etap Hotel,Hotel,300
+160,The Butterfly & the Pig,Bar,108
+161,Kimpton Blythswood Square Hotel,Hotel,212
+162,The Pot Still,Whisky Bar,359
+163,citizenM Hotel Glasgow,Hotel,324
+164,Hampton by Hilton Glasgow Central,Hotel,151
+165,Apex City of Glasgow Hotel,Hotel,232
+166,Malone's Irish Bar,Pub,244
+167,Stereo,Wine Bar,524
+168,The Raven,Bar,411
+169,The Smoking Fox,Bar,573
+170,Clockwork Beer Co,Bar,428
+171,Number 10 Hotel,Hotel,396
+172,Church on the Hill,Pub,775
+173,Buck’s Bar,Bar,17
+174,Hoagies,Wine Bar,188
+175,The Ivory Hotel,Hotel,905
+176,The Florida Park,Bar,324
+177,Armstrong's,Pub,404
+178,Crosshill House,Bed and Breakfast,571
+179,The Ball Room,Pool Hall,610
+180,Pinkston Bar,Pub,394
+181,Possilpark Masonic Social Club,Lounge,663
+182,Star & Garter,Bar,768
+183,St Columba's Church,Historic and Protected Site,934
+184,National Theatre of Scotland,Music Venue,290
+185,Springpark Bar,Bar,469
+186,Spring Park Bar,Bar,474
+187,Congrex UK,Lodging,476
+188,Apartment in iconic building,Lodging,476
+189,The Tower Bar,Bar,549
+190,Inn Deep,Beer Bar,867
+191,Strathmore Bar,Pub,774
+192,Dram,Bar,993
+193,The Crafty Pig,Beer Garden,921
+194,Munro's,Pub,749
+195,Old Schoolhouse Glasgow,Pub,957
+196,The Bakehouse,Bar,915
+197,Star & Garter,Bar,270
+198,St Columba's Church,Historic and Protected Site,351
+199,The Woodside Inn,Pub,406
+200,Strathmore Bar,Pub,290
+201,The Belle,Bar,960
+202,The Viking Bar,Bar,302
+203,The Botany,Pub,303
+204,The Brewhaus,Pub,344
+205,Francos,Bar,350
+206,Munns Vaults,Pub,443
+207,Ambassador Hotel,Hotel,583
+208,Embassy Apartments,Cottage / Cabin,591
+209,The Lockhouse,Bar,758
+210,Possilpark Masonic Social Club,Lounge,272
+211,Pinkston Bar,Pub,628
+212,Star & Garter,Bar,950
+213,Standard Inn,Bar,155
+214,Saracen Bar,Bar,243
+215,Balmore Bar,Arts and Entertainment,292
+216,The Brothers Bar,Arts and Entertainment,356
+217,National Theatre of Scotland,Music Venue,663
+218,Springpark Bar,Bar,690
+219,Spring Park Bar,Bar,697
+220,Five Ways,Arts and Entertainment,244
+221,The Oak Bar,Bar,418
+222,Kerrydale Bar,Sports Bar,432
+223,The Prince Charlie Bar,Pub,485
+224,The Real McCoy,Pub,537
+225,Turnstyles,Bar,544
+226,The Bristol Bar,Dive Bar,921
+227,Louden Tavern Limited,Pub,923
+228,Duke Bar,Pub,960
+229,Celtic FC Supporters Association Social Club,Sports Bar,988
+230,Sub Club,Night Club,763
+231,Kimpton Blythswood Square Hotel,Hotel,862
+232,The Pot Still,Whisky Bar,984
+233,Hotel Motel One,Lodging,612
+234,The Smoking Fox,Bar,726
+235,The Butterfly & the Pig,Bar,994
+236,Stereo,Wine Bar,849
+237,Radisson RED Glasgow,Lodging,870
+238,Rhoderick Dhu,Beer Bar,690
+239,Hampton by Hilton Glasgow Central,Hotel,994
+240,The Clutha Bar,Beer Bar,244
+241,13th Note,Night Club,24
+242,Max's Bar and Grill,Cocktail Bar,511
+243,Sub Club,Night Club,654
+244,The Z Hotel Glasgow,Hotel,668
+245,Merchant Square,Bar,311
+246,Anchor Line,Cocktail Bar,663
+247,The Citizen Bar & Dining Rooms,Cocktail Bar,679
+248,Saint Luke’s,Music Venue,777
+249,"WEST Brewery, Bar & Restaurant",Bar,983
+250,St Louis Cafe Bar,Wine Bar,39
+251,Six Degrees North,Beer Bar,384
+252,Broken Pony,Bar,43
+253,Thornwood,Bar,183
+254,Ga Ga Kitchen & Bar,Bar,382
+255,Brechin Bar,Lounge,489
+256,The Square Bar & Restaurant,Wine Bar,583
+257,The Rosevale Tavern,Pub,588
+258,Windsor Tavern,Bar,610
+259,Manor Park Hotel,Hotel,646
+260,Ubiquitous Chip,Bar,855
+261,Hotel du Vin & Bistro Glasgow,Hotel,612
+262,Hillhead Bookclub,Cocktail Bar,967
+263,Three Judges,Bar,854
+264,The Lismore,Whisky Bar,739
+265,Tennents Bar,Pub,776
+266,The Sparkle Horse,Bar,716
+267,Bag O' Nails,Beer Bar,779
+268,Epicures of Hyndland,Wine Bar,61
+269,1051 Gwr,Bar,844
+270,The Clutha Bar,Beer Bar,103
+271,Sub Club,Night Club,472
+272,Max's Bar and Grill,Cocktail Bar,525
+273,13th Note,Night Club,333
+274,The Pot Still,Whisky Bar,985
+275,Anchor Line,Cocktail Bar,698
+276,The Z Hotel Glasgow,Hotel,801
+277,Hotel Motel One,Lodging,639
+278,The Citizen Bar & Dining Rooms,Cocktail Bar,703
+279,Stereo,Wine Bar,805
+280,The Pot Still,Whisky Bar,156
+281,The Butterfly & the Pig,Bar,126
+282,Kimpton Blythswood Square Hotel,Hotel,213
+283,citizenM Hotel Glasgow,Hotel,218
+284,Apex City of Glasgow Hotel,Hotel,33
+285,Hampton by Hilton Glasgow Central,Hotel,81
+286,Malone's Irish Bar,Pub,68
+287,Stereo,Wine Bar,345
+288,The Raven,Bar,207
+289,The Howlin' Wolf,Pub,60
+290,citizenM Hotel Glasgow,Hotel,656
+291,The Butterfly & the Pig,Bar,735
+292,The Pot Still,Whisky Bar,911
+293,Kimpton Blythswood Square Hotel,Hotel,851
+294,Nice N Sleazy,Night Club,765
+295,Apex City of Glasgow Hotel,Hotel,765
+296,Hampton by Hilton Glasgow Central,Hotel,759
+297,Malone's Irish Bar,Pub,742
+298,The Raven,Bar,873
+299,Chinaskis,Beer Garden,908
+300,Redmond's,Pub,75
+301,Saint Luke’s,Music Venue,736
+302,"WEST Brewery, Bar & Restaurant",Bar,990
+303,The Duchess of Duke Street,Pub,367
+304,Seton Guest House,Bed and Breakfast,151
+305,Bellgrove Hotel,Hostel,349
+306,The Palais Bar,Pub,378
+307,Ladywell,Pub,424
+308,Onslow Guest House,Bed and Breakfast,437
+309,Craigpark Guest House,Bed and Breakfast,437
+310,The Z Hotel Glasgow,Hotel,444
+311,Max's Bar and Grill,Cocktail Bar,643
+312,Merchant Square,Bar,310
+313,The Clutha Bar,Beer Bar,849
+314,Anchor Line,Cocktail Bar,648
+315,The Citizen Bar & Dining Rooms,Cocktail Bar,673
+316,Saint Luke’s,Music Venue,796
+317,Sub Club,Night Club,981
+318,13th Note,Night Club,592
+319,The Ark Glasgow,Bar,432
+320,"WEST Brewery, Bar & Restaurant",Bar,163
+321,Saint Luke’s,Music Venue,589
+322,The Calton Bar,Bar,259
+323,The Crimson Star,Pub,348
+324,The Scottsman Pub,Pub,524
+325,Calton Taproom,Beer Bar,610
+326,The Traders Tavern,Bar,614
+327,Lynchs,Bar,653
+328,The Wee Mans Bar,Sports Bar,661
+329,The Hoops Bar,Bar,662
+330,The Z Hotel Glasgow,Hotel,49
+331,Anchor Line,Cocktail Bar,187
+332,Max's Bar and Grill,Cocktail Bar,281
+333,The Citizen Bar & Dining Rooms,Cocktail Bar,211
+334,The Pot Still,Whisky Bar,547
+335,The Ark Glasgow,Bar,87
+336,Shilling Brewing Co,Bar,363
+337,citizenM Hotel Glasgow,Hotel,626
+338,Stereo,Wine Bar,532
+339,Republic Bier Halle,Beer Garden,352
+340,Inn Deep,Beer Bar,802
+341,Dram,Bar,497
+342,Nice N Sleazy,Night Club,590
+343,Kimpton Blythswood Square Hotel,Hotel,983
+344,The Butterfly & the Pig,Bar,923
+345,Chinaskis,Beer Garden,636
+346,Hampton by Hilton Glasgow Central,Hotel,967
+347,Baby Grand,Piano Bar,727
+348,The Drake,Bar,400
+349,Ardnamurchan,Whisky Bar,955
+350,Allison Arms,Arts and Entertainment,529
+351,The Bungo,Bar,551
+352,Koelschip Yard,Beer Bar,469
+353,Rum Shack,Cocktail Bar,525
+354,Marchtown,Wine Bar,623
+355,McMillan's Bar & Chop House,Bar,909
+356,Sugar Rush,Hookah Bar,338
+357,Urban Shisha Lounge,Lounge,335
+358,Bar Vini,Wine Bar,417
+359,Lunar,Cocktail Bar,487
+360,The Woodend,Bar,794
+361,Lock 27,Pub,594
+362,BJ's,Bar,70
+363,Alba Hostel Glasgow,Hostel,322
+364,The Esquire House,Pub,1068
+365,The Three Craws,Pub,1065
+366,Barr & Stroud Bowling Club,Bowling Alley,740
+367,B J's,Bar,17
+368,Switchback at the Canal,Arts and Entertainment,330
+369,3 Bedroom West End Flat With Parking,Lodging,384
+370,Ahg001 Limited,Hotel,457
+371,Kimpton Blythswood Square Hotel,Hotel,324
+372,The Pot Still,Whisky Bar,480
+373,The Smoking Fox,Bar,329
+374,The Butterfly & the Pig,Bar,456
+375,Stereo,Wine Bar,415
+376,Hotel Motel One,Lodging,405
+377,citizenM Hotel Glasgow,Hotel,722
+378,Hampton by Hilton Glasgow Central,Hotel,456
+379,Rhoderick Dhu,Beer Bar,283
+380,Bavaria Brauhaus,Beer Bar,277
+381,Hotel Motel One,Lodging,315
+382,The Smoking Fox,Bar,489
+383,The Pot Still,Whisky Bar,786
+384,Kimpton Blythswood Square Hotel,Hotel,759
+385,Stereo,Wine Bar,610
+386,The Clutha Bar,Beer Bar,872
+387,Max's Bar and Grill,Cocktail Bar,785
+388,The Butterfly & the Pig,Bar,878
+389,Anchor Line,Cocktail Bar,857
+390,The Citizen Bar & Dining Rooms,Cocktail Bar,838
+391,Inn Deep,Beer Bar,41
+392,The Belle,Bar,380
+393,Ubiquitous Chip,Bar,791
+394,Hillhead Bookclub,Cocktail Bar,686
+395,The Crafty Pig,Beer Garden,143
+396,Dram,Bar,473
+397,Tennents Bar,Pub,907
+398,Innis & Gunn Beer Kitchen - Ashton Lane,Pub,799
+399,The Drake,Bar,849
+400,Brel,Beer Bar,791
+401,BrewDog Glasgow,Beer Bar,157
+402,The Butchershop Bar & Grill,Wine Bar,163
+403,Ubiquitous Chip,Bar,751
+404,Islay Inn,Pub,222
+405,Inn Deep,Beer Bar,890
+406,The 78,Bar,407
+407,The Belle,Bar,945
+408,The SSE Hydro,Concert Hall,983
+409,Hillhead Bookclub,Cocktail Bar,980
+410,Lebowskis,Cocktail Bar,697
+411,Max's Bar and Grill,Cocktail Bar,26
+412,Anchor Line,Cocktail Bar,147
+413,The Citizen Bar & Dining Rooms,Cocktail Bar,156
+414,The Z Hotel Glasgow,Hotel,305
+415,The Pot Still,Whisky Bar,511
+416,Travelodge,Hotel,24
+417,Republic Bier Halle,Beer Garden,187
+418,Stereo,Wine Bar,401
+419,The Clutha Bar,Beer Bar,591
+420,Shilling Brewing Co,Bar,341
+421,Inn Deep,Beer Bar,357
+422,Dram,Bar,90
+423,The Belle,Bar,721
+424,The Butchershop Bar & Grill,Wine Bar,867
+425,BrewDog Glasgow,Beer Bar,948
+426,Ubiquitous Chip,Bar,993
+427,Hillhead Bookclub,Cocktail Bar,989
+428,Chinaskis,Beer Garden,769
+429,Nice N Sleazy,Night Club,850
+430,Lebowskis,Cocktail Bar,898
+431,The Lismore,Whisky Bar,449
+432,Three Judges,Bar,567
+433,Bag O' Nails,Beer Bar,507
+434,St Louis Cafe Bar,Wine Bar,873
+435,The Sparkle Horse,Bar,533
+436,Tennents Bar,Pub,981
+437,Six Degrees North,Beer Bar,450
+438,Epicures of Hyndland,Wine Bar,768
+439,Smiddy Bar,Bar,232
+440,Hayburn Vaults,Arts and Entertainment,64
+441,Lebowskis,Cocktail Bar,74
+442,Strip Joint,Bar,51
+443,The SSE Hydro,Concert Hall,510
+444,Taphouse Bar & Kitchen,Wine Bar,165
+445,The Butchershop Bar & Grill,Wine Bar,645
+446,Radisson RED Glasgow,Lodging,560
+447,BrewDog Glasgow,Beer Bar,882
+448,The 78,Bar,414
+449,Chinaskis,Beer Garden,619
+450,Nice N Sleazy,Night Club,786
+451,Saint Luke’s,Music Venue,61
+452,"WEST Brewery, Bar & Restaurant",Bar,478
+453,The Clutha Bar,Beer Bar,922
+454,13th Note,Night Club,726
+455,Hutchesons,Bar,940
+456,Merchant Square,Bar,706
+457,Guy's Restaurant & Bar,Bar,738
+458,Wicked Lounge,Cocktail Bar,742
+459,The Gallery,Cocktail Bar,863
+460,Warehouse Merchant City,Bar,942
+461,Allison Arms,Arts and Entertainment,332
+462,The Bungo,Bar,397
+463,Koelschip Yard,Beer Bar,344
+464,Rum Shack,Cocktail Bar,328
+465,Marchtown,Wine Bar,389
+466,McMillan's Bar & Chop House,Bar,611
+467,Number 10 Hotel,Hotel,656
+468,The butterfly and the pig,Arts and Entertainment,929
+469,Church on the Hill,Pub,896
+470,McNeill's Bar,Sports Bar,56
+471,Allison Arms,Arts and Entertainment,245
+472,The Bungo,Bar,188
+473,Koelschip Yard,Beer Bar,318
+474,Rum Shack,Cocktail Bar,254
+475,McMillan's Bar & Chop House,Bar,213
+476,Marchtown,Wine Bar,117
+477,Number 10 Hotel,Hotel,1008
+478,The butterfly and the pig,Arts and Entertainment,577
+479,Church on the Hill,Pub,818
+480,Queens Park Hotel,Hotel,27
+481,Hotel du Vin & Bistro Glasgow,Hotel,432
+482,1051 Gwr,Bar,94
+483,111 by Nico,Bar,531
+484,The Hyndland Fox,Bar,760
+485,Epicures of Hyndland,Wine Bar,882
+486,The Lansdowne - Bar & Kitchen,Pub,53
+487,Leonardo Inn Glasgow West End,Hotel,67
+488,Glasgow Pond Hotel,Hotel,92
+489,The Esquire House,Pub,986
+490,Alba Hostel Glasgow,Hostel,831
+491,Nice N Sleazy,Night Club,178
+492,Kimpton Blythswood Square Hotel,Hotel,503
+493,The Butterfly & the Pig,Bar,559
+494,The Pot Still,Whisky Bar,783
+495,citizenM Hotel Glasgow,Hotel,847
+496,Hampton by Hilton Glasgow Central,Hotel,603
+497,The Smoking Fox,Bar,819
+498,Stereo,Wine Bar,850
+499,Apex City of Glasgow Hotel,Hotel,716
+500,Lebowskis,Cocktail Bar,718
+501,The Butchershop Bar & Grill,Wine Bar,256
+502,The 78,Bar,41
+503,BrewDog Glasgow,Beer Bar,493
+504,The SSE Hydro,Concert Hall,607
+505,Taphouse Bar & Kitchen,Wine Bar,231
+506,Lebowskis,Cocktail Bar,322
+507,Islay Inn,Pub,220
+508,Strip Joint,Bar,437
+509,Radisson RED Glasgow,Lodging,784
+510,Dram,Bar,868
+511,Jenny Burn Oatllands,Bar,955
+512,The Scottsman Pub,Pub,735
+513,The Seven Ways,Bar,948
+514,The the Louden Tavern,Sports Bar,970
+515,The Old Dalmarnock Inn,Wine Bar,171
+516,Norman Street Hostel,Hostel,325
+517,Crossreach,Hostel,621
+518,Park Lane Tavern,Bar,723
+519,Fantastic Victorian apartment next to Glasgow Green Park,Vacation Rental,756
+520,Dominion Bar,Bar,776
+521,The Clutha Bar,Beer Bar,239
+522,13th Note,Night Club,320
+523,Sub Club,Night Club,803
+524,"WEST Brewery, Bar & Restaurant",Bar,856
+525,Max's Bar and Grill,Cocktail Bar,765
+526,Saint Luke’s,Music Venue,787
+527,The Z Hotel Glasgow,Hotel,961
+528,Anchor Line,Cocktail Bar,931
+529,Merchant Square,Bar,596
+530,The Citizen Bar & Dining Rooms,Cocktail Bar,943
+531,Radisson RED Glasgow,Lodging,666
+532,The SSE Hydro,Concert Hall,912
+533,Hotel Motel One,Lodging,935
+534,The Laurieston Bar,Pub,951
+535,The Solid Rock Cafe,Bar,980
+536,Oasis Lounge,Lounge,720
+537,The Sir John Moore,Pub,924
+538,Hilton Garden Inn Glasgow City Centre,Hotel,649
+539,Etap Hotel,Hotel,233
+540,The Ferry,Night Club,323
+541,Clockwork Beer Co,Bar,600
+542,McMillan's Bar & Chop House,Bar,944
+543,Number 10 Hotel,Hotel,589
+544,Church on the Hill,Pub,396
+545,The Ivory Hotel,Hotel,532
+546,The butterfly and the pig,Arts and Entertainment,962
+547,Armstrong's,Pub,113
+548,The Ball Room,Pool Hall,354
+549,Buck’s Bar,Bar,387
+550,The Florida Park,Bar,488
+551,GoGlasgow Urban Hotel,Hotel,179
+552,Village Hotel Glasgow,Hotel,942
+553,The Louden Tavern,Arts and Entertainment,423
+554,Sherbrooke Castle Hotel,Hotel,893
+555,Swallow Hotel Glasgow,Hotel,166
+556,Kensington Bar,Wine Bar,294
+557,Stadium Bar,Bar,418
+558,Bar 72,Sports Bar,530
+559,District Bar,Sports Bar,765
+560,The Louden Tavern,Arts and Entertainment,816
+561,Sherbrooke Castle Hotel,Hotel,718
+562,Bellrock,Bar,754
+563,District Bar,Sports Bar,775
+564,The Grapes Bar,Pub,776
+565,Stanley Bar,Bar,818
+566,The Louden Tavern,Arts and Entertainment,889
+567,Kensington Bar,Wine Bar,944
+568,LA Bartenders,Cocktail Bar,992
+569,Bruce Hotel East Kilbride Glasgow,Hotel,333
+570,Bellshaugh Property,Hotel,571
+571,Twechar Miners Club,Bar,192
+572,Bells Bar,Bar,22
+573,Shevlanes,Karaoke Bar,25
+574,Millarbank Social Club,Bar,334
+575,ABW Property,Cottage / Cabin,417
+576,Scottish Country Cottages,Bed and Breakfast,417
+577,Sps Doorguard Limited Scotland,Lodging,457
+578,New Morven Public House,Arts and Entertainment,548
+579,Cowlairs,Arts and Entertainment,577
+580,Huntingdon Road Apartment,Residential Building,930
+581,The Old Smiddy,Bar,410
+582,Clockwork Beer Co,Bar,720
+583,Beechings,Bar,29
+584,The Bank,Wine Bar,936
+585,Cathcart Bowling Club,Sports Bar,156
+586,The White Elephant,Pub,556
+587,Holmwood House,Historic and Protected Site,773
+588,The Florida Park,Bar,804
+589,The Ball Room,Pool Hall,854
+590,The Bank Cafe Bar,Bar,943
+591,The Knowes,Bed and Breakfast,195
+592,Princess Bar,Bar,319
+593,Glasgow City Council,Hotel,433
+594,The Anvil Inn,Hotel Bar,464
+595,Riddrie Hostel,Hostel,485
+596,Sloppy Joe's Discos,Night Club,556
+597,The Lockhouse,Bar,150
+598,The Viking Bar,Bar,610
+599,Rams Head,Pub,890
+600,First & Last,Bar,1605
+601,The Botany,Arts and Entertainment,17
+602,Maryhill Juniors,Bar,125
+603,The Politician,Bar,315
+604,Frampton's Nightclub,Night Club,543
+605,Glasgow West End Apartments,Lodging,688
+606,"Private, West End tenement flat near Botanics",Lodging,689
+607,The Clutha Bar,Beer Bar,662
+608,13th Note,Night Club,874
+609,The Laurieston Bar,Pub,680
+610,Oasis Lounge,Lounge,877
+611,Hootenanny,Pub,960
+612,Premier Inn Glasgow City Centre hotel,Lodging,974
+613,Brazen Heid,Bar,238
+614,Sharkeys Bar,Bar,248
+615,"Holiday Inn Express Glasgow - City Ctr Riverside, an IHG Hotel",Lodging,704
+616,Victoria Bar,Dive Bar,655
+617,Stereo,Wine Bar,56
+618,The Pot Still,Whisky Bar,242
+619,The Smoking Fox,Bar,68
+620,Kimpton Blythswood Square Hotel,Hotel,370
+621,The Butterfly & the Pig,Bar,430
+622,Hotel Motel One,Lodging,272
+623,Shilling Brewing Co,Bar,270
+624,Max's Bar and Grill,Cocktail Bar,434
+625,The Citizen Bar & Dining Rooms,Cocktail Bar,370
+626,Anchor Line,Cocktail Bar,395
+627,Anchor Line,Cocktail Bar,118
+628,The Citizen Bar & Dining Rooms,Cocktail Bar,117
+629,The Pot Still,Whisky Bar,356
+630,The Z Hotel Glasgow,Hotel,225
+631,Max's Bar and Grill,Cocktail Bar,291
+632,Shilling Brewing Co,Bar,174
+633,citizenM Hotel Glasgow,Hotel,461
+634,Stereo,Wine Bar,365
+635,Republic Bier Halle,Beer Garden,238
+636,The Raven,Bar,277
+637,citizenM Hotel Glasgow,Hotel,255
+638,The Pot Still,Whisky Bar,401
+639,The Z Hotel Glasgow,Hotel,428
+640,The Raven,Bar,265
+641,The Butterfly & the Pig,Bar,535
+642,Shilling Brewing Co,Bar,346
+643,Kimpton Blythswood Square Hotel,Hotel,629
+644,Anchor Line,Cocktail Bar,440
+645,The Citizen Bar & Dining Rooms,Cocktail Bar,436
+646,Apex City of Glasgow Hotel,Hotel,385
+647,Sugar Rush,Hookah Bar,438
+648,Urban Shisha Lounge,Lounge,451
+649,Travelodge Glasgow Paisley Road,Hotel,811
+650,LA Bartenders,Cocktail Bar,722
+651,Quayside,Pub,743
+652,Stanley Bar,Bar,743
+653,Star Bar,Night Club,865
+654,The Old Toll Bar,Wine Bar,890
+655,The Angel Bar,Bar,894
+656,Merchants Quay,Bar,902
+657,Six Degrees North,Beer Bar,889
+658,The Brechin,Bar,115
+659,Smiddy Bar,Bar,948
+660,Brechin Bar,Lounge,754
+661,Hayburn Vaults,Arts and Entertainment,776
+662,The Poetry Club,Music Venue,800
+663,Deoch an Dorus,Bar,866
+664,The Rosevale Tavern,Pub,860
+665,Hayburn,Bar,862
+666,Windsor Tavern,Bar,879
+667,GoGlasgow Urban Hotel,Hotel,664
+668,The Louden Tavern,Arts and Entertainment,876
+669,Bar 72,Sports Bar,671
+670,Swallow Hotel Glasgow,Hotel,672
+671,Glasgow Guest House,Bed and Breakfast,770
+672,Stadium Bar,Bar,871
+673,GoGlasgow Urban Hotel by Compass Hospitality,Hotel,672
+674,Holly House,Bed and Breakfast,733
+675,Airdbreck,Hotel,801
+676,Ibrox Stadium - More Than a Pub,Sports Bar,879
+677,The Butchershop Bar & Grill,Wine Bar,628
+678,Lebowskis,Cocktail Bar,378
+679,BrewDog Glasgow,Beer Bar,826
+680,Chinaskis,Beer Garden,464
+681,Dram,Bar,478
+682,Inn Deep,Beer Bar,859
+683,Taphouse Bar & Kitchen,Wine Bar,382
+684,Strip Joint,Bar,396
+685,Nice N Sleazy,Night Club,625
+686,The SSE Hydro,Concert Hall,905
+687,Ardnamurchan,Whisky Bar,930
+688,The Drake,Bar,966
+689,The Pipers' Tryst Hotel,Hotel,889
+690,Jackson's Bar,Bar,820
+691,Arlington Bar,Pub,973
+692,Thistle Bar,Pub,524
+693,The Woodside Inn,Pub,608
+694,Victorian House,Hotel,900
+695,Willow Hotel,Hotel,855
+696,Brett Wine Bar and Eatery,Wine Bar,896
+697,St Louis Cafe Bar,Wine Bar,793
+698,Granny Gibbs Bar,Pub,500
+699,Manor Park Hotel,Hotel,391
+700,The Three Craws,Pub,862
+701,The Square Bar & Restaurant,Wine Bar,620
+702,Broken Pony,Bar,786
+703,Pianola & Co,Wine Bar,790
+704,The Clubhouse,Sports Bar,926
+705,Thornwood,Bar,964
+706,Manor Park Guest House,Hotel,384
+707,BrewDog Glasgow,Beer Bar,884
+708,Three Judges,Bar,632
+709,The Lismore,Whisky Bar,622
+710,Bag O' Nails,Beer Bar,636
+711,The Sparkle Horse,Bar,705
+712,Six Degrees North,Beer Bar,839
+713,Dukes Bar,Bar,831
+714,The Record Factory,Music Venue,692
+715,Bar Gumbo,Bar,833
+716,Smiddy Bar,Bar,571
+717,Premier Inn Glasgow hotel,Lodging,980
+718,The Fullarton Park Hotel,Hotel,662
+719,The Bell's,Bar,113
+720,Waverley Bar,Bar,205
+721,Strathspey Bar,Bar,319
+722,The Kimberley,Pub,379
+723,Palaceum Bar,Bar,824
+724,Town Tavern,Bar,870
+725,The Cottage Bar,Wine Bar,883
+726,The Drum,Bar,957
+727,The SSE Hydro,Concert Hall,124
+728,Radisson RED Glasgow,Lodging,306
+729,Village Hotel Glasgow,Hotel,338
+730,The Butchershop Bar & Grill,Wine Bar,876
+731,Lebowskis,Cocktail Bar,643
+732,Taphouse Bar & Kitchen,Wine Bar,645
+733,Strip Joint,Bar,668
+734,The 78,Bar,660
+735,Islay Inn,Pub,816
+736,Premier Inn Glasgow Pacific Quay hotel,Lodging,196
+737,Village Hotel Glasgow,Hotel,303
+738,The SSE Hydro,Concert Hall,478
+739,Radisson RED Glasgow,Lodging,658
+740,The Butchershop Bar & Grill,Wine Bar,966
+741,Mora,Arts and Entertainment,867
+742,Lebowskis,Cocktail Bar,933
+743,The 78,Bar,823
+744,Taphouse Bar & Kitchen,Wine Bar,907
+745,Strip Joint,Bar,985
+746,Islay Inn,Pub,907
+747,The Butterfly & the Pig,Bar,89
+748,Kimpton Blythswood Square Hotel,Hotel,221
+749,The Pot Still,Whisky Bar,283
+750,citizenM Hotel Glasgow,Hotel,236
+751,Hampton by Hilton Glasgow Central,Hotel,100
+752,Apex City of Glasgow Hotel,Hotel,144
+753,Malone's Irish Bar,Pub,151
+754,Stereo,Wine Bar,465
+755,The Raven,Bar,319
+756,The Howlin' Wolf,Pub,176
+757,The Oak Bar,Bar,17
+758,The Real McCoy,Pub,148
+759,Turnstyles,Bar,216
+760,Five Ways,Arts and Entertainment,350
+761,Kerrydale Bar,Sports Bar,415
+762,The Prince Charlie Bar,Pub,445
+763,Celtic FC Supporters Association Social Club,Sports Bar,597
+764,Bellway Commonwealth Apartment,Residential Building,66
+765,London Road Tavern,Bar,160
+766,Heathbank Guest House,Hotel,177
+767,Strathmore Bar,Pub,603
+768,The Viking Bar,Bar,22
+769,The Lockhouse,Bar,442
+770,Francos,Bar,582
+771,The Brewhaus,Pub,587
+772,The Botany,Pub,615
+773,Munns Vaults,Pub,698
+774,Ambassador Hotel,Hotel,737
+775,Embassy Apartments,Cottage / Cabin,741
+776,Botanic Gardens Railway Station,Historic and Protected Site,991
+777,Allison Arms,Arts and Entertainment,737
+778,The Bungo,Bar,670
+779,McMillan's Bar & Chop House,Bar,281
+780,Koelschip Yard,Beer Bar,808
+781,Rum Shack,Cocktail Bar,746
+782,Marchtown,Wine Bar,604
+783,The butterfly and the pig,Arts and Entertainment,85
+784,Linen 1906,Wine Bar,228
+785,Church on the Hill,Pub,617
+786,The Ivory Hotel,Hotel,459
+787,The Butchershop Bar & Grill,Wine Bar,397
+788,BrewDog Glasgow,Beer Bar,460
+789,The SSE Hydro,Concert Hall,668
+790,The 78,Bar,404
+791,Islay Inn,Pub,349
+792,Village Hotel Glasgow,Hotel,879
+793,Radisson RED Glasgow,Lodging,911
+794,Lebowskis,Cocktail Bar,716
+795,Taphouse Bar & Kitchen,Wine Bar,636
+796,Strip Joint,Bar,822
+797,Hotel Motel One,Lodging,26
+798,The Smoking Fox,Bar,194
+799,The Pot Still,Whisky Bar,497
+800,Stereo,Wine Bar,304
+801,Kimpton Blythswood Square Hotel,Hotel,555
+802,Max's Bar and Grill,Cocktail Bar,498
+803,The Butterfly & the Pig,Bar,649
+804,Rhoderick Dhu,Beer Bar,195
+805,Anchor Line,Cocktail Bar,545
+806,The Citizen Bar & Dining Rooms,Cocktail Bar,525
+807,Inn Deep,Beer Bar,618
+808,Dram,Bar,589
+809,The Belle,Bar,955
+810,The Crafty Pig,Beer Garden,734
+811,The Drake,Bar,740
+812,Old Schoolhouse Glasgow,Pub,582
+813,Arlington Bar,Pub,675
+814,The Garage,Night Club,949
+815,The Woodside Inn,Pub,33
+816,St Columba's Church,Historic and Protected Site,107
+817,The Clutha Bar,Beer Bar,434
+818,Max's Bar and Grill,Cocktail Bar,367
+819,Hotel Motel One,Lodging,302
+820,The Pot Still,Whisky Bar,687
+821,The Smoking Fox,Bar,448
+822,Stereo,Wine Bar,492
+823,Anchor Line,Cocktail Bar,508
+824,The Citizen Bar & Dining Rooms,Cocktail Bar,501
+825,Republic Bier Halle,Beer Garden,399
+826,The Z Hotel Glasgow,Hotel,695
+827,Village Hotel Glasgow,Hotel,575
+828,GoGlasgow Urban Hotel,Hotel,617
+829,"Crowne Plaza Glasgow, an IHG Hotel",Lodging,904
+830,The Louden Tavern,Arts and Entertainment,662
+831,Premier Inn Glasgow Pacific Quay hotel,Lodging,725
+832,Sherbrooke Castle Hotel,Hotel,978
+833,Kensington Bar,Wine Bar,149
+834,District Bar,Sports Bar,322
+835,The Louden Tavern,Arts and Entertainment,375
+836,The Grapes Bar,Pub,447
+837,Allison Arms,Arts and Entertainment,872
+838,The Bungo,Bar,932
+839,Koelschip Yard,Beer Bar,799
+840,Rum Shack,Cocktail Bar,864
+841,Marchtown,Wine Bar,1000
+842,Star Bar,Night Club,14
+843,Bar Vini,Wine Bar,272
+844,Sugar Rush,Hookah Bar,422
+845,Urban Shisha Lounge,Lounge,409
+846,Brazen Heid,Bar,711
+847,Ubiquitous Chip,Bar,232
+848,BrewDog Glasgow,Beer Bar,503
+849,Hillhead Bookclub,Cocktail Bar,494
+850,The Belle,Bar,582
+851,The Butchershop Bar & Grill,Wine Bar,681
+852,Inn Deep,Beer Bar,750
+853,Tennents Bar,Pub,226
+854,Three Judges,Bar,531
+855,Innis & Gunn Beer Kitchen - Ashton Lane,Pub,204
+856,Bag O' Nails,Beer Bar,570
+857,Travelodge Glasgow Govan,Hotel,552
+858,The Amethyst,Pub,608
+859,Yorkhill Family House,Lodging,420
+860,ByEvo Almar Villa,Vacation Rental,622
+861,Fairfields Bar,Bar,742
+862,Redmond's,Pub,691
+863,The Duchess of Duke Street,Pub,732
+864,Tartan Lodge,Hostel,186
+865,Station Bar,Bar,159
+866,Claremont House Bed & Breakfast,Bed and Breakfast,243
+867,Craigpark Masters,Pool Hall,257
+868,Craigpark Guest House,Bed and Breakfast,279
+869,Onslow Guest House,Bed and Breakfast,336
+870,Cathedral House Hotel,Hotel,791
+871,Fisher Court Apartment,Residential Building,539
+872,Burrell,Bar,741
+873,Old Stag Inn,Pub,933
+874,Short Stay Rooms,Hotel,719
+875,1901 Bar & Bistro,Bar,750
+876,1901 Public House,Bar,755
+877,Sherbrooke Castle Hotel,Hotel,525
+878,Orchid Cottages,Cottage / Cabin,215
+879,Glasgow Self Catering Apartments,Cottage / Cabin,579
+880,Melfort Holdings,Hotel,591
+881,Bellshaugh Property,Hotel,777
+882,Rukhsana Foods,Arts and Entertainment,807
+883,Bruce Hotel East Kilbride Glasgow,Hotel,855
+884,City Short Stays,Residential Building,931
+885,Clockwork Beer Co,Bar,877
+886,Number 10 Hotel,Hotel,742
+887,The Montford House,Bar,170
+888,Beechwood Tavern,Pub,507
+889,Hoagies,Wine Bar,681
+890,Buck’s Bar,Bar,740
+891,The Florida Park,Bar,869
+892,International Bar,Pub,964
+893,Glades House,Bed and Breakfast,622
+894,Glasgow City Council,Hotel,742
+895,Three Judges,Bar,99
+896,Bag O' Nails,Beer Bar,16
+897,BrewDog Glasgow,Beer Bar,617
+898,Ubiquitous Chip,Bar,645
+899,The Sparkle Horse,Bar,62
+900,The Butchershop Bar & Grill,Wine Bar,852
+901,Hillhead Bookclub,Cocktail Bar,935
+902,Tennents Bar,Pub,514
+903,Islay Inn,Pub,881
+904,Innis & Gunn Beer Kitchen - Ashton Lane,Pub,620
+905,Taste Good Wok,Bar,950
+906,The Cairn Bar,Wine Bar,198
+907,Charlies Kitchen,Bar,836
+908,Auchinairn Tavern,Bar,855
+909,New Morven Public House,Arts and Entertainment,937
+910,Premier Inn Glasgow hotel,Lodging,129
+911,The Fullarton Park Hotel,Hotel,558
+912,Elders,Bar,167
+913,The Simon Comunity Hostel,Hostel,674
+914,The Kimberley,Pub,679
+915,Strathspey Bar,Bar,700
+916,Waverley Bar,Bar,721
+917,The cambus,Bar,780
+918,The Bell's,Bar,791
+919,"Premier Inn Glasgow - Cambuslang/M74, J2A",Hotel,137
+920,Granny Gibbs Bar,Pub,69
+921,Big Joint,Night Club,578
+922,The Clubhouse,Sports Bar,695
+923,McNabbs Lounge Bar,Pub,754
+924,Manor Park Hotel,Hotel,925
+925,Scotstoun 1 Bed Flat,Vacation Rental,361
+926,Manor Park Guest House,Hotel,952
+927,Enable Scottish Society For the Mentally Handicapped,Hostel,953
+928,Iolair Limited,Cottage / Cabin,959
+929,Kimpton Blythswood Square Hotel,Hotel,621
+930,The Pot Still,Whisky Bar,834
+931,The Butterfly & the Pig,Bar,747
+932,The Smoking Fox,Bar,677
+933,Stereo,Wine Bar,774
+934,Hotel Motel One,Lodging,682
+935,Nice N Sleazy,Night Club,677
+936,The SSE Hydro,Concert Hall,965
+937,Radisson RED Glasgow,Lodging,782
+938,Hampton by Hilton Glasgow Central,Hotel,764
+939,Quo Vadis,Bar,803
+940,The Dunalastair Hotel Pitlochry,Hotel,962
+941,Craigton Lodge,Lodging,58
+942,Scottish & Newcastle Limited,Bar,849
+943,The Clutha Bar,Beer Bar,372
+944,13th Note,Night Club,135
+945,Max's Bar and Grill,Cocktail Bar,602
+946,Merchant Square,Bar,276
+947,Saint Luke’s,Music Venue,639
+948,The Z Hotel Glasgow,Hotel,695
+949,Sub Club,Night Club,787
+950,"WEST Brewery, Bar & Restaurant",Bar,876
+951,Anchor Line,Cocktail Bar,736
+952,The Citizen Bar & Dining Rooms,Cocktail Bar,755
+953,The Z Hotel Glasgow,Hotel,697
+954,Max's Bar and Grill,Cocktail Bar,970
+955,Ibis Styles Hotel,Hotel,900
+956,Saint Luke’s,Music Venue,936
+957,Anchor Line,Cocktail Bar,931
+958,The Citizen Bar & Dining Rooms,Cocktail Bar,955
+959,Merchant Square,Bar,676
+960,The Ark Glasgow,Bar,668
+961,13th Note,Night Club,953
+962,Travelodge,Hotel,947
+963,Pinkston Bar,Pub,419
+964,Sighthill Stone Circle,Historic and Protected Site,844
+965,Possilpark Masonic Social Club,Lounge,865
+966,Cowlairs,Arts and Entertainment,298
+967,Spring Park Bar,Bar,363
+968,Springpark Bar,Bar,364
+969,Millarbank Social Club,Bar,542
+970,Huntingdon Road Apartment,Residential Building,548
+971,ABW Property,Cottage / Cabin,646
+972,Scottish Country Cottages,Bed and Breakfast,646
